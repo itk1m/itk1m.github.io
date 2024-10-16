@@ -2,7 +2,7 @@
 layout: post
 title: The Beginning
 subtitle: From Soleyman Cloud Academy
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/intro-pic.jpeg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [AWS, cloud]
